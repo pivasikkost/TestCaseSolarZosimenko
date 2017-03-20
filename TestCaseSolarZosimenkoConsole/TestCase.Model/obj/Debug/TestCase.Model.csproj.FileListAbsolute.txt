@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCase.Model\bin\Debug\TestCase.Model.dll.config
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCase.Model\bin\Debug\TestCase.Model.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCase.Model\bin\Debug\TestCase.Model.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCase.Model\obj\Debug\TestCase.Model.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCase.Model\obj\Debug\TestCase.Model.pdb

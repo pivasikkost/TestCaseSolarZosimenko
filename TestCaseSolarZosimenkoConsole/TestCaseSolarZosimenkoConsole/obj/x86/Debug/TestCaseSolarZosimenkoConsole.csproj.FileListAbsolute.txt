@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCaseSolarZosimenkoConsole\bin\Debug\TestCaseSolarZosimenkoConsole.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCaseSolarZosimenkoConsole\bin\Debug\TestCaseSolarZosimenkoConsole.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCaseSolarZosimenkoConsole\bin\Debug\TestCaseSolarZosimenkoConsole.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCaseSolarZosimenkoConsole\bin\Debug\TestCase.Model.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCaseSolarZosimenkoConsole\bin\Debug\TestCase.Model.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCaseSolarZosimenkoConsole\obj\x86\Debug\TestCaseSolarZosimenkoConsole.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCaseSolarZosimenkoConsole\obj\x86\Debug\TestCaseSolarZosimenkoConsole.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\TestCaseSolarZosimenkoConsole\TestCaseSolarZosimenkoConsole\obj\x86\Debug\TestCaseSolarZosimenkoConsole.pdb
